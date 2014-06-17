@@ -1,6 +1,6 @@
-name: Basic Template
+name: CS300
 highlighter: pygments
 safe: false
-baseurl: /basic-template
+baseurl: /CS300-Fall2014
 exclude: [morea]
 morea_theme: cerulean
